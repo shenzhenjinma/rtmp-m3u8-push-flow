@@ -1,0 +1,16 @@
+D:\Project\2.Demo\Oraycn.MCaptureDemo\bin\Debug\MCaptureDemo.exe
+D:\Project\2.Demo\Oraycn.MCaptureDemo\bin\Debug\MCaptureDemo.pdb
+D:\Project\2.Demo\Oraycn.MCaptureDemo\bin\Debug\ESBasic.dll
+D:\Project\2.Demo\Oraycn.MCaptureDemo\bin\Debug\Oraycn.MCapture.dll
+D:\Project\2.Demo\Oraycn.MCaptureDemo\bin\Debug\ESBasic.xml
+D:\Project\2.Demo\Oraycn.MCaptureDemo\bin\Debug\Oraycn.MCapture.xml
+D:\Project\2.Demo\Oraycn.MCaptureDemo\obj\x86\Debug\MCaptureDemo.Form1.resources
+D:\Project\2.Demo\Oraycn.MCaptureDemo\obj\x86\Debug\MCaptureDemo.Properties.Resources.resources
+D:\Project\2.Demo\Oraycn.MCaptureDemo\obj\x86\Debug\MCaptureDemo.csproj.GenerateResource.Cache
+D:\Project\2.Demo\Oraycn.MCaptureDemo\obj\x86\Debug\MCaptureDemo.exe
+D:\Project\2.Demo\Oraycn.MCaptureDemo\obj\x86\Debug\MCaptureDemo.pdb
+D:\Project\2.Demo\Oraycn.MCaptureDemo\obj\x86\Debug\MCaptureDemo.csprojResolveAssemblyReference.cache
+D:\Project\2.Demo\Oraycn.MCaptureDemo\bin\Debug\MCaptureDemo.exe.config
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\bin\Debug\MCaptureDemo.exe.config
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\obj\x86\Debug\MCaptureDemo.exe
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\obj\x86\Debug\MCaptureDemo.pdb

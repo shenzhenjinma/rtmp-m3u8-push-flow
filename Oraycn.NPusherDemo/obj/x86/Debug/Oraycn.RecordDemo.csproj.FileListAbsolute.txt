@@ -1,0 +1,230 @@
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\bin\Debug\Oraycn.RecordDemo.exe.config
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\obj\x86\Debug\Oraycn.RecordDemo.csprojResolveAssemblyReference.cache
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\obj\x86\Debug\Oraycn.RecordDemo.Form1.resources
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\obj\x86\Debug\Oraycn.RecordDemo.Properties.Resources.resources
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\obj\x86\Debug\Oraycn.RecordDemo.csproj.GenerateResource.Cache
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\bin\Debug\Oraycn.RecordDemo.exe
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\bin\Debug\Oraycn.RecordDemo.pdb
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\bin\Debug\ESBasic.dll
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\bin\Debug\Oraycn.MCapture.dll
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\bin\Debug\Oraycn.MFile.dll
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\bin\Debug\ESBasic.xml
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\bin\Debug\Oraycn.MCapture.xml
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\bin\Debug\Oraycn.MFile.xml
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\obj\x86\Debug\Oraycn.RecordDemo.exe
+D:\Project\2.Demo\Oraycn.MCaptureDemo - 副本\obj\x86\Debug\Oraycn.RecordDemo.pdb
+C:\Users\david\Desktop\Oraycn.MCaptureDemo - 副本\bin\Debug\Oraycn.RecordDemo.exe.config
+C:\Users\david\Desktop\Oraycn.MCaptureDemo - 副本\obj\x86\Debug\Oraycn.RecordDemo.exe
+C:\Users\david\Desktop\Oraycn.MCaptureDemo - 副本\obj\x86\Debug\Oraycn.RecordDemo.pdb
+C:\Users\david\Desktop\Oraycn.MCaptureDemo - 副本\bin\Debug\Oraycn.RecordDemo.exe
+C:\Users\david\Desktop\Oraycn.MCaptureDemo - 副本\bin\Debug\Oraycn.RecordDemo.pdb
+C:\Users\david\Desktop\Oraycn.MCaptureDemo - 副本\bin\Debug\ESBasic.dll
+C:\Users\david\Desktop\Oraycn.MCaptureDemo - 副本\bin\Debug\Oraycn.MCapture.dll
+C:\Users\david\Desktop\Oraycn.MCaptureDemo - 副本\bin\Debug\Oraycn.MFile.dll
+C:\Users\david\Desktop\Oraycn.MCaptureDemo - 副本\bin\Debug\ESBasic.xml
+C:\Users\david\Desktop\Oraycn.MCaptureDemo - 副本\bin\Debug\Oraycn.MCapture.xml
+C:\Users\david\Desktop\Oraycn.MCaptureDemo - 副本\bin\Debug\Oraycn.MFile.xml
+C:\Users\david\Desktop\Oraycn.MCaptureDemo - 副本\obj\x86\Debug\Oraycn.RecordDemo.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\Oraycn.MCaptureDemo - 副本\obj\x86\Debug\Oraycn.RecordDemo.Form1.resources
+C:\Users\david\Desktop\Oraycn.MCaptureDemo - 副本\obj\x86\Debug\Oraycn.RecordDemo.Properties.Resources.resources
+C:\Users\david\Desktop\Oraycn.MCaptureDemo - 副本\obj\x86\Debug\Oraycn.RecordDemo.csproj.GenerateResource.Cache
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe.config
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.pdb
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo\bin\Debug\ESBasic.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo\bin\Debug\ESBasic.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csprojResolveAssemblyReference.cache
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Form1.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Properties.Resources.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csproj.GenerateResource.Cache
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.exe
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.pdb
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo生成成功\obj\x86\Debug\Oraycn.RecordDemo.csprojResolveAssemblyReference.cache
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo生成成功\obj\x86\Debug\Oraycn.RecordDemo.Form1.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo生成成功\obj\x86\Debug\Oraycn.RecordDemo.Properties.Resources.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo生成成功\obj\x86\Debug\Oraycn.RecordDemo.csproj.GenerateResource.Cache
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo生成成功\bin\Debug\Oraycn.RecordDemo.exe.config
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo生成成功\bin\Debug\Oraycn.RecordDemo.exe
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo生成成功\bin\Debug\Oraycn.RecordDemo.pdb
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo生成成功\bin\Debug\ESBasic.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo生成成功\bin\Debug\Oraycn.MCapture.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo生成成功\bin\Debug\Oraycn.MFile.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo生成成功\bin\Debug\ESBasic.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo生成成功\bin\Debug\Oraycn.MCapture.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo生成成功\bin\Debug\Oraycn.MFile.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo生成成功\obj\x86\Debug\Oraycn.RecordDemo.exe
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\MFile\Oraycn.RecordDemo生成成功\obj\x86\Debug\Oraycn.RecordDemo.pdb
+C:\Users\david\Downloads\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe.config
+C:\Users\david\Downloads\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.exe
+C:\Users\david\Downloads\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.pdb
+C:\Users\david\Downloads\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe
+C:\Users\david\Downloads\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.pdb
+C:\Users\david\Downloads\Oraycn.RecordDemo\bin\Debug\ESBasic.dll
+C:\Users\david\Downloads\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.dll
+C:\Users\david\Downloads\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.dll
+C:\Users\david\Downloads\Oraycn.RecordDemo\bin\Debug\ESBasic.xml
+C:\Users\david\Downloads\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.xml
+C:\Users\david\Downloads\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.xml
+C:\Users\david\Downloads\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csprojResolveAssemblyReference.cache
+C:\Users\david\Downloads\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Form1.resources
+C:\Users\david\Downloads\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Properties.Resources.resources
+C:\Users\david\Downloads\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csproj.GenerateResource.Cache
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe.config
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.pdb
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\bin\Debug\ESBasic.dll
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.dll
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.dll
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\bin\Debug\ESBasic.xml
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.xml
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.xml
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Form1.resources
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Properties.Resources.resources
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\obj\x86\Debug\ResGen.read.1.tlog
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\obj\x86\Debug\ResGen.write.1.tlog
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.exe
+D:\Users\dudu\Downloads\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.pdb
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe.config
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.exe
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.pdb
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.pdb
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\bin\Debug\ESBasic.dll
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.dll
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.dll
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\bin\Debug\ESBasic.xml
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.xml
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.xml
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Form1.resources
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Properties.Resources.resources
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\obj\x86\Debug\ResGen.read.1.tlog
+D:\Users\dudu\Desktop\Oraycn.RecordDemo\obj\x86\Debug\ResGen.write.1.tlog
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe.config
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.exe
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.pdb
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.pdb
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\bin\Debug\ESBasic.dll
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.dll
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.dll
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\bin\Debug\ESBasic.xml
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.xml
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.xml
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Form1.resources
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Properties.Resources.resources
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\obj\x86\Debug\ResGen.read.1.tlog
+D:\Users\dudu\Downloads\demos\Oraycn.RecordDemo\obj\x86\Debug\ResGen.write.1.tlog
+G:\替换dll\MFile相关demo\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe.config
+G:\替换dll\MFile相关demo\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.exe
+G:\替换dll\MFile相关demo\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.pdb
+G:\替换dll\MFile相关\MFile相关demo\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe.config
+G:\替换dll\MFile相关\MFile相关demo\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe
+G:\替换dll\MFile相关\MFile相关demo\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.pdb
+G:\替换dll\MFile相关\MFile相关demo\Oraycn.RecordDemo\bin\Debug\ESBasic.dll
+G:\替换dll\MFile相关\MFile相关demo\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.dll
+G:\替换dll\MFile相关\MFile相关demo\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.dll
+G:\替换dll\MFile相关\MFile相关demo\Oraycn.RecordDemo\bin\Debug\ESBasic.xml
+G:\替换dll\MFile相关\MFile相关demo\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.xml
+G:\替换dll\MFile相关\MFile相关demo\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.xml
+G:\替换dll\MFile相关\MFile相关demo\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csprojResolveAssemblyReference.cache
+G:\替换dll\MFile相关\MFile相关demo\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Form1.resources
+G:\替换dll\MFile相关\MFile相关demo\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Properties.Resources.resources
+G:\替换dll\MFile相关\MFile相关demo\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csproj.GenerateResource.Cache
+G:\替换dll\MFile相关\MFile相关demo\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.exe
+G:\替换dll\MFile相关\MFile相关demo\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.pdb
+G:\替换工具\work\MFile相关\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe.config
+G:\替换工具\work\MFile相关\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe
+G:\替换工具\work\MFile相关\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.pdb
+G:\替换工具\work\MFile相关\Oraycn.RecordDemo\bin\Debug\ESBasic.dll
+G:\替换工具\work\MFile相关\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.dll
+G:\替换工具\work\MFile相关\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.dll
+G:\替换工具\work\MFile相关\Oraycn.RecordDemo\bin\Debug\ESBasic.xml
+G:\替换工具\work\MFile相关\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.xml
+G:\替换工具\work\MFile相关\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.xml
+G:\替换工具\work\MFile相关\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Form1.resources
+G:\替换工具\work\MFile相关\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Properties.Resources.resources
+G:\替换工具\work\MFile相关\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csproj.GenerateResource.Cache
+G:\替换工具\work\MFile相关\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.exe
+G:\替换工具\work\MFile相关\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.pdb
+C:\360安全浏览器下载\替换工具\work\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe.config
+C:\360安全浏览器下载\替换工具\work\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe
+C:\360安全浏览器下载\替换工具\work\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.pdb
+C:\360安全浏览器下载\替换工具\work\MFile\Oraycn.RecordDemo\bin\Debug\ESBasic.dll
+C:\360安全浏览器下载\替换工具\work\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.dll
+C:\360安全浏览器下载\替换工具\work\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.dll
+C:\360安全浏览器下载\替换工具\work\MFile\Oraycn.RecordDemo\bin\Debug\ESBasic.xml
+C:\360安全浏览器下载\替换工具\work\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.xml
+C:\360安全浏览器下载\替换工具\work\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.xml
+C:\360安全浏览器下载\替换工具\work\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csprojResolveAssemblyReference.cache
+C:\360安全浏览器下载\替换工具\work\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Form1.resources
+C:\360安全浏览器下载\替换工具\work\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Properties.Resources.resources
+C:\360安全浏览器下载\替换工具\work\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csproj.GenerateResource.Cache
+C:\360安全浏览器下载\替换工具\work\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.exe
+C:\360安全浏览器下载\替换工具\work\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.pdb
+C:\360安全浏览器下载\替换工具\work\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe.config
+C:\360安全浏览器下载\替换工具\work\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.exe
+C:\360安全浏览器下载\替换工具\work\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.pdb
+C:\360安全浏览器下载\替换工具\work\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe
+C:\360安全浏览器下载\替换工具\work\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.pdb
+C:\360安全浏览器下载\替换工具\work\Oraycn.RecordDemo\bin\Debug\ESBasic.dll
+C:\360安全浏览器下载\替换工具\work\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.dll
+C:\360安全浏览器下载\替换工具\work\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.dll
+C:\360安全浏览器下载\替换工具\work\Oraycn.RecordDemo\bin\Debug\ESBasic.xml
+C:\360安全浏览器下载\替换工具\work\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.xml
+C:\360安全浏览器下载\替换工具\work\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.xml
+C:\360安全浏览器下载\替换工具\work\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csprojResolveAssemblyReference.cache
+C:\360安全浏览器下载\替换工具\work\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Form1.resources
+C:\360安全浏览器下载\替换工具\work\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Properties.Resources.resources
+C:\360安全浏览器下载\替换工具\work\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csproj.GenerateResource.Cache
+G:\替换工具\work\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe.config
+G:\替换工具\work\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.exe
+G:\替换工具\work\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.pdb
+G:\替换工具\work\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe
+G:\替换工具\work\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.pdb
+G:\替换工具\work\Oraycn.RecordDemo\bin\Debug\ESBasic.dll
+G:\替换工具\work\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.dll
+G:\替换工具\work\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.dll
+G:\替换工具\work\Oraycn.RecordDemo\bin\Debug\ESBasic.xml
+G:\替换工具\work\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.xml
+G:\替换工具\work\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.xml
+G:\替换工具\work\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Form1.resources
+G:\替换工具\work\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Properties.Resources.resources
+G:\替换工具\work\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csproj.GenerateResource.Cache
+E:\2.Demo\2.官网Demo\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe.config
+E:\2.Demo\2.官网Demo\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.exe
+E:\2.Demo\2.官网Demo\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.pdb
+E:\2.Demo\2.官网Demo\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe
+E:\2.Demo\2.官网Demo\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.pdb
+E:\2.Demo\2.官网Demo\MFile\Oraycn.RecordDemo\bin\Debug\ESBasic.dll
+E:\2.Demo\2.官网Demo\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.dll
+E:\2.Demo\2.官网Demo\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.dll
+E:\2.Demo\2.官网Demo\MFile\Oraycn.RecordDemo\bin\Debug\ESBasic.xml
+E:\2.Demo\2.官网Demo\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.xml
+E:\2.Demo\2.官网Demo\MFile\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.xml
+E:\2.Demo\2.官网Demo\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csprojResolveAssemblyReference.cache
+E:\2.Demo\2.官网Demo\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Form1.resources
+E:\2.Demo\2.官网Demo\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Properties.Resources.resources
+E:\2.Demo\2.官网Demo\MFile\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csproj.GenerateResource.Cache
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe.config
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.exe
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\bin\Debug\Oraycn.RecordDemo.pdb
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\bin\Debug\ESBasic.dll
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.dll
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.dll
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\bin\Debug\ESBasic.xml
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\bin\Debug\Oraycn.MCapture.xml
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\bin\Debug\Oraycn.MFile.xml
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csprojAssemblyReference.cache
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Form1.resources
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.Properties.Resources.resources
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csproj.GenerateResource.cache
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.csproj.CopyComplete
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.exe
+E:\傲瑞更换DLL\组件\Oraycn.RecordDemo\obj\x86\Debug\Oraycn.RecordDemo.pdb

@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Oraycn.NPusher</name>
+    </assembly>
+    <members>
+        <member name="M:Oraycn.NPusher.AuthorizeVerifier.VerifyAuthorizedUser(System.String,System.String)">
+            <summary>
+            验证授权用户帐号密码。在正式使用MFile组件之前调用。通过验证后，MFile组件将由试用版转变为正式版。
+            </summary>        
+        </member>
+        <member name="M:Oraycn.NPusher.NPusherLib.init(System.String,System.String,System.String,System.String,System.Int32@)">
+            <summary>
+            初始化。
+            </summary>        
+            <param name="app">应用类型：live（flash）， hls（支持h5）</param>
+            <param name="stream">播放标识</param>     
+            <param name="errCode">0 表示成功； -1表示连接服务器失败； -2表示同名的流已存在。</param>
+        </member>
+        <member name="E:Oraycn.NPusher.IStreamPusher.Disconnected">
+            <summary>
+            与流媒体服务器的连接断开时，触发此事件。
+            </summary>
+        </member>
+        <member name="E:Oraycn.NPusher.IStreamPusher.AutoReconnectStart">
+            <summary>
+            当开始自动重连服务器时，触发该事件。
+            </summary>
+        </member>
+        <member name="E:Oraycn.NPusher.IStreamPusher.AutoReconnectSucceed">
+            <summary>
+            在自动重连服务器时，触发该事件。
+            </summary>
+        </member>
+        <member name="P:Oraycn.NPusher.IStreamPusher.Connected">
+            <summary>
+            与流服务器连接正常？
+            </summary>
+        </member>
+        <member name="P:Oraycn.NPusher.IStreamPusher.AutoReconnect">
+            <summary>
+            是否开启掉线自动重连功能？默认值：true。
+            </summary>
+        </member>
+        <member name="P:Oraycn.NPusher.IStreamPusher.UpsideDown4RGB24">
+            <summary>
+            如果输入RGB24图像，是否要上下颠倒。默认值：false。
+            </summary>
+        </member>
+        <member name="P:Oraycn.NPusher.IStreamPusher.MaxKeyInterval">
+            <summary>
+            多少帧中出现一个I帧。默认值：2.
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Oraycn.NPusher.IStreamPusher.Initialize(System.String,System.Int32,System.Boolean,System.String,System.Int32,System.Int32,Oraycn.NPusher.InputAudioDataType,Oraycn.NPusher.InputVideoDataType,System.Int32)" -->
+        <!-- Badly formed XML comment ignored for member "M:Oraycn.NPusher.IStreamPusher.Initialize(System.String,System.Int32,System.Int32,Oraycn.NPusher.InputAudioDataType,Oraycn.NPusher.InputVideoDataType,System.Int32)" -->
+        <member name="M:Oraycn.NPusher.IStreamPusher.Initialize4OMCS(System.String,System.Int32,System.Boolean,System.String)">
+            <summary>
+            初始化推流器（从OMCS获取音视频数据）。
+            </summary>
+            <param name="serverIP">流服务器IP</param>
+            <param name="serverPort">流服务器端口</param>
+            <param name="hlsEnabled">是否启用HLS（以支持H5播放）</param>
+            <param name="streamID">流ID</param>        
+        </member>
+        <member name="M:Oraycn.NPusher.IStreamPusher.PushVideoFrame(System.Byte[])">
+            <summary>
+            推送视频帧。
+            </summary>
+            <param name="videoFrame">视频帧数据</param>
+            <returns>推送成功则返回true</returns>
+        </member>
+        <member name="M:Oraycn.NPusher.IStreamPusher.PushAudioFrame(System.Byte[])">
+            <summary>
+            推送音频帧。
+            </summary>
+            <param name="audioFrame">音频帧数据</param>
+            <returns>推送成功则返回true</returns>
+        </member>
+        <member name="M:Oraycn.NPusher.IStreamPusher.Close">
+            <summary>
+            关闭并释放推流器。
+            </summary>
+        </member>
+        <member name="T:Oraycn.NPusher.InputAudioDataType">
+            <summary>
+            输入的声音数据的类型。
+            </summary>
+        </member>
+        <member name="F:Oraycn.NPusher.InputAudioDataType.None">
+            <summary>
+            没有声音数据。
+            </summary>
+        </member>
+        <member name="F:Oraycn.NPusher.InputAudioDataType.PCM">
+            <summary>
+            PCM数据。
+            </summary>
+        </member>
+        <member name="F:Oraycn.NPusher.InputAudioDataType.AAC">
+            <summary>
+            AAC编码数据。
+            </summary>
+        </member>
+        <member name="T:Oraycn.NPusher.InputVideoDataType">
+            <summary>
+            输入的视频数据的类型。
+            </summary>
+        </member>
+        <member name="F:Oraycn.NPusher.InputVideoDataType.None">
+            <summary>
+            没有视频数据。
+            </summary>
+        </member>
+        <member name="F:Oraycn.NPusher.InputVideoDataType.RGB24">
+            <summary>
+            PCM数据。
+            </summary>
+        </member>
+        <member name="F:Oraycn.NPusher.InputVideoDataType.H264">
+             <summary>
+            H264编码数据。
+             </summary>
+        </member>
+        <member name="E:Oraycn.NPusher.StreamPusher.AutoReconnectStart">
+            <summary>
+            当开始自动重连服务器时，触发该事件。
+            </summary>
+        </member>
+        <member name="E:Oraycn.NPusher.StreamPusher.AutoReconnectSucceed">
+            <summary>
+            在自动重连服务器时，触发该事件。
+            </summary>
+        </member>
+        <member name="T:Oraycn.NPusher.RotateAngle">
+            <summary>
+            旋转角度
+            </summary>
+        </member>
+        <member name="F:Oraycn.NPusher.RotateAngle.R0">
+            <summary>
+            不旋转
+            </summary>
+        </member>
+        <member name="F:Oraycn.NPusher.RotateAngle.R90">
+            <summary>
+            向右旋转90度
+            </summary>
+        </member>
+        <member name="F:Oraycn.NPusher.RotateAngle.R180">
+            <summary>
+            向右旋转180度
+            </summary>
+        </member>
+        <member name="F:Oraycn.NPusher.RotateAngle.R270">
+            <summary>
+            向右旋转270度
+            </summary>
+        </member>
+    </members>
+</doc>
